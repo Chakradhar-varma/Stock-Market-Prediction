@@ -11,6 +11,14 @@ This project implements a stock price prediction model using machine learning te
 - Model evaluation and performance analysis
 - Visualization of stock price trends
 
+## Technologies Used
+- Python
+- Jupyter Notebook
+- Pandas & NumPy (for data manipulation)
+- Matplotlib & Seaborn (for data visualization)
+- Scikit-learn (for machine learning models)
+- TensorFlow/Keras (if deep learning models are used)
+
 ## Requirements
 To run this project, install the following dependencies:
 
@@ -50,7 +58,6 @@ The dataset consists of historical stock price data, including:
 - Low Price
 - Close Price
 - Volume
-
 Ensure that the dataset is available in CSV format before running the notebook.
 
 ## Results
